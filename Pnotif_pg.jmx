@@ -20,7 +20,7 @@
       </ThreadGroup>
       <hashTree>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request">
-          <stringProp name="HTTPSampler.domain">uat.jana.sb.tibilprojects.com</stringProp>
+          <stringProp name="HTTPSampler.domain">npdlqpxkb7.execute-api.ap-south-1.amazonaws.com</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.path">/switch2/pnotif</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
@@ -32,7 +32,7 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-&quot;data&quot;:&quot;VSpCIOGSI3DX/16Os0QOaYdTBA4oZ9Sut+KELT4V1B/Xr60DQ3pnFnE81JKND0x8z5iLUoK0OG8cC2MEmT5AKMlYiTxNWU3AlFXF6ol30yWiIjyVod21OEEkhQetrIWT8jy3ebAweWjT1csPPzY7kKE6jpRYkMvnDDR+o3ggoL5iAqO8UM31guZ1zkQMGstDLrzCxAGCjgNtI7aXiRBj1+bxPgJ1&quot;&#xd;
+    &quot;data&quot;: &quot;VSpCIOGSI3DX/16Os0QOaYdTBA4oZ9Sut+KELT4V1B/Xr60DQ3pnFnE81JKND0x8z5iLUoOyNzllRjNTijdTSclYiTtBVnjgkxDd8poWhGrjMzeIk8G0MUtwrQSu683Fpm+lNHjSODAKBuw7tek8eJZ03YU=&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -53,7 +53,7 @@
             </collectionProp>
           </HeaderManager>
           <hashTree/>
-          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion">
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
             <collectionProp name="Asserion.test_strings">
               <stringProp name="49586">200</stringProp>
             </collectionProp>
@@ -63,7 +63,7 @@
             <intProp name="Assertion.test_type">8</intProp>
           </ResponseAssertion>
           <hashTree/>
-          <JSONPathAssertion guiclass="JSONPathAssertionGui" testclass="JSONPathAssertion" testname="JSON Assertion">
+          <JSONPathAssertion guiclass="JSONPathAssertionGui" testclass="JSONPathAssertion" testname="JSON Assertion" enabled="true">
             <stringProp name="JSON_PATH">$[&apos;status&apos;]</stringProp>
             <stringProp name="EXPECTED_VALUE">200</stringProp>
             <boolProp name="JSONVALIDATION">true</boolProp>
@@ -73,7 +73,7 @@
             <stringProp name="TestPlan.comments">Responce Data Status assertion</stringProp>
           </JSONPathAssertion>
           <hashTree/>
-          <JSONPathAssertion guiclass="JSONPathAssertionGui" testclass="JSONPathAssertion" testname="JSON Assertion">
+          <JSONPathAssertion guiclass="JSONPathAssertionGui" testclass="JSONPathAssertion" testname="JSON Assertion" enabled="true">
             <stringProp name="JSON_PATH">$[&apos;message&apos;]</stringProp>
             <stringProp name="EXPECTED_VALUE">Payment record created successfully</stringProp>
             <boolProp name="JSONVALIDATION">true</boolProp>
