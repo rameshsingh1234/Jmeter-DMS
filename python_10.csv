@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1723446369280,508,HTTP Request,200,OK,Thread Group 1-7,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,505,0,278
+1723446369385,414,HTTP Request,200,OK,Thread Group 1-8,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,414,0,180
+1723446369580,209,HTTP Request,200,OK,Thread Group 1-10,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,200,0,20
+1723446368880,911,HTTP Request,200,OK,Thread Group 1-1,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,902,0,682
+1723446368884,915,HTTP Request,200,OK,Thread Group 1-3,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,915,0,667
+1723446369483,306,HTTP Request,200,OK,Thread Group 1-9,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,303,0,84
+1723446369082,714,HTTP Request,200,OK,Thread Group 1-5,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,714,0,492
+1723446368982,809,HTTP Request,200,OK,Thread Group 1-4,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,809,0,564
+1723446369181,608,HTTP Request,200,OK,Thread Group 1-6,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,599,0,377
+1723446368882,908,HTTP Request,200,OK,Thread Group 1-2,text,true,,309,410,10,10,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,899,0,689

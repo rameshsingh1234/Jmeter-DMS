@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1723032838257,552,HTTP Request,200,OK,Thread Group 1-1,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,546,0,415
+1723032838514,306,HTTP Request,502,Bad Gateway,Thread Group 1-5,text,false,,312,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,306,0,151
+1723032838412,409,HTTP Request,502,Bad Gateway,Thread Group 1-4,text,false,,312,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,409,0,261
+1723032838613,207,HTTP Request,502,Bad Gateway,Thread Group 1-6,text,false,,312,469,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,207,0,62
+1723032838313,509,HTTP Request,502,Bad Gateway,Thread Group 1-3,text,false,,312,469,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,509,0,367
+1723032838259,561,HTTP Request,502,Bad Gateway,Thread Group 1-2,text,false,,312,469,6,6,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,561,0,412
+1723032838711,116,HTTP Request,502,Bad Gateway,Thread Group 1-7,text,false,,312,469,3,3,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,116,0,17
+1723032838811,37,HTTP Request,502,Bad Gateway,Thread Group 1-8,text,false,,312,469,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,37,0,28
+1723032838913,25,HTTP Request,502,Bad Gateway,Thread Group 1-9,text,false,,312,469,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,25,0,19
+1723032839014,31,HTTP Request,502,Bad Gateway,Thread Group 1-10,text,false,,312,469,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,31,0,19
+1723033240915,619,HTTP Request,200,OK,Thread Group 1-1,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,609,0,433
+1723033241003,531,HTTP Request,200,OK,Thread Group 1-3,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,524,0,334
+1723033241098,434,HTTP Request,200,OK,Thread Group 1-4,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,426,0,253
+1723033241399,135,HTTP Request,200,OK,Thread Group 1-7,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,130,0,19
+1723033241303,231,HTTP Request,200,OK,Thread Group 1-6,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,223,0,52
+1723033241203,331,HTTP Request,200,OK,Thread Group 1-5,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,323,0,143
+1723033240916,618,HTTP Request,200,OK,Thread Group 1-2,text,true,,309,469,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,607,0,415
+1723033241494,70,HTTP Request,200,OK,Thread Group 1-8,text,true,,309,469,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,70,0,14
+1723033241593,28,HTTP Request,200,OK,Thread Group 1-9,text,true,,309,469,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,28,0,17
+1723033241694,21,HTTP Request,200,OK,Thread Group 1-10,text,true,,309,469,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,21,0,10
+1723181210725,747,HTTP Request,200,OK,Thread Group 1-7,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,747,0,545
+1723181210336,1132,HTTP Request,200,OK,Thread Group 1-1,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,1127,0,933
+1723181211033,434,HTTP Request,200,OK,Thread Group 1-10,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,425,0,223
+1723181210428,1039,HTTP Request,200,OK,Thread Group 1-4,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,1037,0,844
+1723181210629,838,HTTP Request,200,OK,Thread Group 1-6,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,833,0,643
+1723181210339,1131,HTTP Request,200,OK,Thread Group 1-2,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,1131,0,920
+1723181210927,540,HTTP Request,200,OK,Thread Group 1-9,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,531,0,343
+1723181210527,940,HTTP Request,200,OK,Thread Group 1-5,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,940,0,738
+1723181210338,1129,HTTP Request,200,OK,Thread Group 1-3,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,1125,0,916
+1723181210827,640,HTTP Request,200,OK,Thread Group 1-8,text,true,,309,451,10,10,https://uat.jana.sb.tibilprojects.com/switch2/pnotif,635,0,436
+1723208067509,480,HTTP Request,200,OK,Thread Group 1-3,text,true,,309,410,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,475,0,356
+1723208068009,50,HTTP Request,200,OK,Thread Group 1-8,text,true,,309,410,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,50,0,29
+1723208067809,187,HTTP Request,200,OK,Thread Group 1-6,text,true,,309,410,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,187,0,60
+1723208067611,379,HTTP Request,200,OK,Thread Group 1-4,text,true,,309,410,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,373,0,260
+1723208067711,279,HTTP Request,200,OK,Thread Group 1-5,text,true,,309,410,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,273,0,156
+1723208067442,548,HTTP Request,200,OK,Thread Group 1-1,text,true,,309,410,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,540,0,427
+1723208067444,546,HTTP Request,200,OK,Thread Group 1-2,text,true,,309,410,7,7,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,546,0,424
+1723208067907,128,HTTP Request,200,OK,Thread Group 1-7,text,true,,309,410,8,8,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,128,0,23
+1723208068108,60,HTTP Request,200,OK,Thread Group 1-9,text,true,,309,410,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,60,0,19
+1723208068210,25,HTTP Request,200,OK,Thread Group 1-10,text,true,,309,410,1,1,https://npdlqpxkb7.execute-api.ap-south-1.amazonaws.com/switch2/pnotif,25,0,16
